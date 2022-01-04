@@ -14,7 +14,7 @@ This application is made of two parts:
     - web UI that communicates with REST endpoints available through an API app (see below).
     - is a React.js project located in the [client](src/client) folder.
 * API
-    - uses [MySqlConnector]](https://github.com/mysql-net/MySqlConnector) with [Dapper](https://dapperlib.github.io/Dapper/) to connect to MariaDB.
+    - uses [MySqlConnector](https://github.com/mysql-net/MySqlConnector) with [Dapper](https://dapperlib.github.io/Dapper/) to connect to MariaDB.
     - is a .NET solution located int the [api](src/api) folder.
 
 This README will walk you through the steps for getting the TODO web application up and running using MariaDB.
@@ -97,7 +97,7 @@ This application is made of two parts:
     - web UI that communicates with REST endpoints available through an API app (see below).
     - is a React.js project located in the [client](src/client) folder.
 * API
-    - uses [MySqlConnector]](https://github.com/mysql-net/MySqlConnector) with [Dapper](https://dapperlib.github.io/Dapper/) to connect to MariaDB.
+    - uses [MySqlConnector](https://github.com/mysql-net/MySqlConnector) with [Dapper](https://dapperlib.github.io/Dapper/) to connect to MariaDB.
     - is a .NET solution located int the [api](src/api) folder.
 
 The following steps, `a` through `c`, will walk you through the process of configuring, building and running the `api` and `client` applications.
