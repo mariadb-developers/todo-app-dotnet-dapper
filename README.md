@@ -52,7 +52,7 @@ If you don't have a MariaDB database up and running you can find more informatio
 First, use [git](git-scm.org) (through CLI or a client) to retrieve the code using `git clone`:
 
 ```
-$ git clone https://github.com/mariadb-developers/todo-app-python.git
+$ git clone https://github.com/mariadb-developers/todo-app-dotnet-dapper.git
 ```
 
 Next, because this repo uses a [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules), you will need to pull the [client application](https://github.com/mariadb-developers/todo-app-client) using:
